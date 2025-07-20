@@ -1,2 +1,8 @@
-# iot-week01-assignment1
-hono, CRUD ข้อมูลนักศึกษา
+```
+npm install
+npm run dev
+```
+
+```
+open http://localhost:3000
+```
