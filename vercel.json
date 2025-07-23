@@ -6,3 +6,5 @@
     }
   ]
 }
+
+pss postgres://neondb_owner:npg_rNTg2OinWSR9@ep-twilight-flower-a1ck9fqz-pooler.ap-southeast-1.aws.neon.tech/student?sslmode=require
